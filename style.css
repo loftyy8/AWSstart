@@ -91,10 +91,6 @@ nav ul a:active {
     font-family: var(--titleFont);
 }
 
-/* nav ul a:hover{
-    border-bottom: 5px solid var(--justShade);
-} */
-
 section {
     min-height: 80vh;
     margin-bottom: 1em;
@@ -119,8 +115,6 @@ img {
     max-width: 100%;
 }
 
-/* Navigation */
-
 #menu ul {
     display: grid;
     grid-gap: 10px;
@@ -138,7 +132,6 @@ img {
     text-align: center;
     color: var(--black);
     font-family: var(--titleFont);
-    /* text-transform: uppercase; */
     font-size: 120%;
     align-self: stretch;
 }
