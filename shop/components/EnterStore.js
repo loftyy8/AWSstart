@@ -1,7 +1,13 @@
-import React from 'React';
-import { render} from 'react-dom';
+import React from "react";
 
 class EnterStore extends React.Component {
-    render(<EnterStore />, document.querySelector('#main'));
-}    
+    render() {
+        return (
+            <form className="store">
+            <button type="submit">Visit Store →</button>
+            </form>
+            );
+        }
+    }
+    
     export default EnterStore;

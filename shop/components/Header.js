@@ -5,11 +5,11 @@ class Header extents React.Component {
         return (
             <header className="top">
             <h1>
-                <span>Store</span>
-                <span>JLoft&bullet;house</span>
+            <span>Store</span>
+            <span>JLoft&bullet;house</span>
             </h1>
-        </header>
-        )
+            </header>
+            )
+        }
     }
-}
-export default Header;
+    export default Header;
