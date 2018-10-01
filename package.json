@@ -1,12 +1,12 @@
 {
-  "name": "AWSstart",
+  "name": "Jloft.house",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Portfolio website used for testing",
   "main": "scripts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "James Lofthouse",
   "license": "ISC"
 }
